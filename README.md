@@ -41,7 +41,7 @@ My expertise lies in frontend technologies with React.js.
 
 - **Languages**:
     
-    <img src="https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png" width ="100" height="50">
+    <img src="https://img.shields.io/badge/-SOLIDITY-000?&logo=Solidity">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
