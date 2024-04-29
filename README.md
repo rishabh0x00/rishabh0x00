@@ -12,23 +12,21 @@
 
 <br>
 
-An experienced solidity developer with expertise in understanding and delivering software solutions based on business requirements.
+With almost five years of experience in the blockchain industry, I've come a long way on my journey to creating next-generation blockchain solutions. My fascination with the concept of a truly decentralized and permissionless world of technology, along with the disruptive potential of blockchain solutions, initially led me down this path.
 
-My interest lies in NFTs, Marketplaces, Decentralised Finance and Blockchain development in general.
+I started my career with an exceptional company that shared my enthusiasm for blockchain. This allowed me to dive deep into the core of my interests, refine my understanding, and acquire the development skills that might have taken years to master elsewhere. During my more than two years at Deqode, I honed my expertise in Solidity, Hardhat, ReactJs, and NodeJs.  
+I created projects such as Future Vaults, NFT marketplaces for ERC721 and ERC1155 tokens, and gained extensive experience in Layer 2 solutions.
 
-I am an expert in Solidity for smart contract development and have been actively doing smart contract auditing which also helps me to write optimized and secure contracts.
+To expand my horizons and push my limits, I joined Sandbox, since the project aligned with my interests and it contributed towards building the decentralized world I've always envisioned.
 
-I have deep knowledge around the various token standards like ERC1155, ERC721, ERC20 and I have working experience with standards like EIP4626, EIP5095, EIP2771 and EIP712 for metatransactions.
+Currently, I'm engaged in developing assets and land contracts for Sandbox. This project boasts a lightweight architecture made possible by leveraging ERC1155 tokens and storing static information within the 256-bit ID of the tokens.
+I worked with diamond proxies, created custom bridges and land tunnel using fx-portal. Also worked extensively with sentinels, auto-tasks and monitoring.
 
-I have been writing upgradeable contracts for a long time and have specific knowledge in that area. I have been using Transparent proxies, Beacon proxies and UUPS proxies.
+In addition to my professional work, I actively involved myself in cross-chain personal projects with LayerZero and HyperLane. These projects are developed on Foundry, which provides valuable leverage for my testing process, enabling me to conduct fork tests, fuzz tests, and invariant tests.
 
-I have enough experience with sidechains and other layer 2 technologies like polygon and arbitrum.
+Throughout my career, I've maintained a strong focus on writing the most efficient code while adhering to community accepted style, ensuring extensive test coverage, and producing thorough documentation. These practices are essential for delivering reliable and secure blockchain solutions.
 
-I have also implemented diamond proxies(EIP2535) to eliminate the size limit on a solidity contract.
-
-When it comes to Full stack web development, I have worked in backend technologies like Node.js and ROR.
-
-My expertise lies in frontend technologies with React.js.
+My dedication to blockchain technology and my commitment to contributing to the development of the decentralized world remain unwavering.
 
 <br><br>
 
