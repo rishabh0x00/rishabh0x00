@@ -49,7 +49,7 @@ My dedication to blockchain technology and my commitment to contributing to the 
 - **Frameworks**:
 
     <img src="https://hardhat.org/card.jpg" width ="300">
-    <img src="[https://camo.githubusercontent.com/ea0d6d242d04970e71d606d0518f98a813f4ff9e933783ca63c1708bb31e7028/68747470733a2f2f6d6972726f722e78797a2f5f6e6578742f696d6167653f75726c3d6874747073253341253246253246696d616765732e6d6972726f722d6d656469612e78797a2532467075626c69636174696f6e2d696d616765732532466b7439396d46745a5a31476c325a6257474e49334a2e706e6726773d3338343026713d3930](https://github.com/foundry-rs/foundry/blob/master/.github/logo.png)" width ="300">
+    <img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" width ="300">
 
 <br>   
     
