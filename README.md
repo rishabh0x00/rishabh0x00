@@ -12,7 +12,7 @@
 
 <br>
 
-With almost five years of experience in the blockchain industry, I've come a long way on my journey to creating next-generation blockchain solutions. My fascination with the concept of a truly decentralized and permissionless world of technology, along with the disruptive potential of blockchain solutions, initially led me down this path.
+With more than five years of experience in the blockchain industry, I've come a long way on my journey to creating next-generation blockchain solutions. My fascination with the concept of a truly decentralized and permissionless world of technology, along with the disruptive potential of blockchain solutions, initially led me down this path.
 
 I started my career with an exceptional company that shared my enthusiasm for blockchain. This allowed me to dive deep into the core of my interests, refine my understanding, and acquire the development skills that might have taken years to master elsewhere. During my more than two years at Deqode, I honed my expertise in Solidity, Hardhat, ReactJs, and NodeJs.  
 I created projects such as Future Vaults, NFT marketplaces for ERC721 and ERC1155 tokens, and gained extensive experience in Layer 2 solutions.
